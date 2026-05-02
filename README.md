@@ -222,4 +222,5 @@ portfolio-template/
 
 ## License
 
-MIT
+MIT, made by @not-imtiaz
+
