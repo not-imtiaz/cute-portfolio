@@ -222,5 +222,6 @@ portfolio-template/
 
 ## License
 
-MIT, made by @not-imtiaz
+MIT
+Instagram - instagram.com/imtudied
 
