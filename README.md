@@ -222,6 +222,6 @@ portfolio-template/
 
 ## License
 
-MIT
+MIT, Specifically made for girliesss <3
 Instagram - instagram.com/imtudied
 
